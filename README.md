@@ -1,7 +1,7 @@
 # OOP-To-Do-List-in-JS
 Simple OOP To-Do List in JavaScript
 
-This is a OOP ToDo List build in Pure JavaScript
+This is a OOP ToDo List build in pure JavaScript
 
 CRUD | Create / Read / Update / Delete
 
